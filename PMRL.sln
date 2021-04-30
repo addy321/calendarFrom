@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMRL", "PMRL.csproj", "{20A4FA1A-DE47-485C-8B77-A283DAACE5CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20A4FA1A-DE47-485C-8B77-A283DAACE5CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20A4FA1A-DE47-485C-8B77-A283DAACE5CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20A4FA1A-DE47-485C-8B77-A283DAACE5CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20A4FA1A-DE47-485C-8B77-A283DAACE5CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {926A2E27-F0E9-4269-B18F-0E4E7D67B988}
+	EndGlobalSection
+EndGlobal
